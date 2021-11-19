@@ -18,11 +18,11 @@ click on the button to launch the labs:
 part-2:
 - [ ] Getting the Income of the User.
 - [ ] ML Based Recommendation or not
-    If yes,
-        - Get the number of stocks to analyse
-        - Get the data from yfinance API and train ML classification algo on it.
-        - Predict the future 3 day’s BUY SELL behaviour of each stock
-        - Recommend the user
-    If no:
-        - Get User Selected stocks
-        - Distribute the money on this basis market capitalisation.
+    - If yes,
+      - Get the number of stocks to analyse
+      - Get the data from yfinance API and train ML classification algo on it.
+      - Predict the future 3 day’s BUY SELL behaviour of each stock
+      - Recommend the user
+    - If no:
+      - Get User Selected stocks
+      - Distribute the money on this basis market capitalisation.
